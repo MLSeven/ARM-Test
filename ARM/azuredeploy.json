@@ -26,7 +26,7 @@
         "type": "string",
         "defaultValue": "myPublicIP",
         "metadata": {
-          "description": "Name for the Public IP used to access the Virtual Machine."
+          "description": "Name for the Public IP used to access the Virtual Machine (UPDATE)."
         }
       },
       "publicIPAllocationMethod": {
@@ -54,12 +54,13 @@
   
       "OSVersion": {
         "type": "string",
-        "defaultValue": "2019-Datacenter",
+        "defaultValue": "2019-Datacenter-Core",
         "allowedValues": [
           "2008-R2-SP1",
           "2012-Datacenter",
           "2012-R2-Datacenter",
           "2016-Nano-Server",
+          "2016-Nano-Server-smalldisk"
           "2016-Datacenter-with-Containers",
           "2016-Datacenter",
           "2019-Datacenter",
