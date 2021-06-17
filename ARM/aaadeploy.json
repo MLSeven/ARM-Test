@@ -26,12 +26,12 @@
         "type": "string",
         "defaultValue": "myPublicIP",
         "metadata": {
-          "description": "This is aaadeploy.json."
+          "description": "This is aaadeploy.json (updated) "
         }
       },
       "publicIPAllocationMethod": {
         "type": "string",
-        "defaultValue": "Dynamic",
+        "defaultValue": "Dynamic"
         "allowedValues": [
           "Dynamic",
           "Static"
