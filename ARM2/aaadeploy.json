@@ -54,8 +54,9 @@
   
       "OSVersion": {
         "type": "string",
-        "defaultValue": "2019-Datacenter",
+        "defaultValue": "---ARM2 Folder ---",
         "allowedValues": [
+          "---ARM2 Folder ---",
           "2008-R2-SP1",
           "2012-Datacenter",
           "2012-R2-Datacenter",
