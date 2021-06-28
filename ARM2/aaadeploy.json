@@ -56,7 +56,7 @@
         "type": "string",
         "defaultValue": "---ARM2 Folder UPDATE ---",
         "allowedValues": [
-          "---ARM2 Folder UPDATE---",
+          "---ARM2 Folder UPDATE ---",
           "2008-R2-SP1",
           "2012-Datacenter",
           "2012-R2-Datacenter",
